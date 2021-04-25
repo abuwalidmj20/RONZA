@@ -3833,7 +3833,7 @@ Welcome To Source RonnZa
 
 🌐┇ RonnZa TEAM 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📬┇ [Source Channel](https:///t.me/GPS_RONZABOT)
+📬┇ [Source Channel](https://t.me/GPS_RONZABOT)
 
 🆔┇ [Changing ID Channel](https://t.me/Change_id/1)
 
